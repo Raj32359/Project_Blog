@@ -1,0 +1,15 @@
+blockquote {	
+	border-top: 1px solid black;
+	width: 100%;
+	background: black;
+	color: white;
+}
+
+.sidebar  {
+	position: relative;
+	left: 5px;
+	height :100%;
+	z-index: auto;
+	
+}
+
